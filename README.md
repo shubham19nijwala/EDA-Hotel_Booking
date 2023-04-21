@@ -4,6 +4,7 @@ This project involves analyzing hotel booking data for City and Resort hotels us
 # Business Objective
 Conduct an analysis of the booking data for both the City Hotel and Resort Hotel to acquire insights into the diverse factors that influence the booking process.
 # Solution to Business Objective
+
 1.To capitalize on the popularity of city hotels, focus on expanding and improving the offerings at city hotel locations to continue to attract guests.
 
 2. Agent ID no: 9 has shown the ability to generate a significant amount of bookings. Consider offering incentives and bonuses to incentivize and retain high-performing agents.
