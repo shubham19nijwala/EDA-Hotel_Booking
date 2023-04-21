@@ -1,5 +1,27 @@
 # EDA-Hotel_Booking
-# SUMMMARY
-This project focuses on analyzing hotel bookings data, which includes two types of hotels: City Hotel and Resort Hotel. The dataset contains 119,390 rows and 32 columns. The workflow of this project is divided into three categories: Data Collection and Understanding, Data Cleaning and Manipulation, and Exploratory Data Analysis (EDA).
+# SUMMMARY:
+This project involves analyzing hotel booking data for City and Resort hotels using a structured workflow consisting of three categories: Data Collection and Understanding, Data Cleaning and Manipulation, and Exploratory Data Analysis (EDA). The dataset contains 119,390 rows and 32 columns, and important columns are identified and updated. Duplicate data items are removed, and missing values are handled using data wrangling methods. The EDA phase involves using charts and graphs to identify patterns and trends, such as peak season for bookings, average lead time, and cancellation rates. The insights gained from this analysis can help hotel management make informed decisions about pricing, marketing, and staffing. Overall, this project highlights the importance of utilizing data science techniques to obtain insights that can inform business decisions.
 # Business Objective
 Conduct an analysis of the booking data for both the City Hotel and Resort Hotel to acquire insights into the diverse factors that influence the booking process.
+# Solution to Business Objective
+To capitalize on the popularity of city hotels, focus on expanding and improving the offerings at city hotel locations to continue to attract guests.
+
+Agent ID no: 9 has shown the ability to generate a significant amount of bookings. Consider offering incentives and bonuses to incentivize and retain high-performing agents.
+
+To reduce the number of cancellations, analyze the reasons behind cancellations and implement policies to address the root causes. This may include improving the booking experience or offering incentives for non-cancellation.
+
+Given the high percentage of bookings made through TA/TO, continue to prioritize and develop partnerships with tour agents and operators to drive more bookings.
+
+Focus on driving more bookings in 2015 by offering special promotions and incentives to attract guests. However, given the overall popularity of city hotels, continue to invest in expanding offerings at city hotel locations.
+
+Capitalize on the high ADR in the summer months for resort hotels by promoting summer vacation packages and experiences to attract more guests.
+
+Since GDS contributes significantly to ADR in city hotels but not resort hotels, focus on promoting and expanding the use of GDS for city hotel bookings.
+
+To incentivize longer stays and improve the ADR, consider offering promotions and discounts for longer stays.
+
+As Portugal is the primary source of guests, invest in promoting and expanding offerings to attract more guests from Portugal and other countries.
+
+Focus on maximizing ADR by encouraging shorter stays at city hotels and longer stays at resort hotels to capitalize on guest preferences.
+
+Invest in attracting more guests looking for longer stays at resort hotels, while continuing to offer attractive options and packages for short stays at city hotels.
