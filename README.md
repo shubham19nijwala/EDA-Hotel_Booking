@@ -4,24 +4,24 @@ This project involves analyzing hotel booking data for City and Resort hotels us
 # Business Objective
 Conduct an analysis of the booking data for both the City Hotel and Resort Hotel to acquire insights into the diverse factors that influence the booking process.
 # Solution to Business Objective
-To capitalize on the popularity of city hotels, focus on expanding and improving the offerings at city hotel locations to continue to attract guests.
+1.To capitalize on the popularity of city hotels, focus on expanding and improving the offerings at city hotel locations to continue to attract guests.
 
-Agent ID no: 9 has shown the ability to generate a significant amount of bookings. Consider offering incentives and bonuses to incentivize and retain high-performing agents.
+2. Agent ID no: 9 has shown the ability to generate a significant amount of bookings. Consider offering incentives and bonuses to incentivize and retain high-performing agents.
 
-To reduce the number of cancellations, analyze the reasons behind cancellations and implement policies to address the root causes. This may include improving the booking experience or offering incentives for non-cancellation.
+3. To reduce the number of cancellations, analyze the reasons behind cancellations and implement policies to address the root causes. This may include improving the booking experience or offering incentives for non-cancellation.
 
-Given the high percentage of bookings made through TA/TO, continue to prioritize and develop partnerships with tour agents and operators to drive more bookings.
+4. Given the high percentage of bookings made through TA/TO, continue to prioritize and develop partnerships with tour agents and operators to drive more bookings.
 
-Focus on driving more bookings in 2015 by offering special promotions and incentives to attract guests. However, given the overall popularity of city hotels, continue to invest in expanding offerings at city hotel locations.
+5. Focus on driving more bookings in 2015 by offering special promotions and incentives to attract guests. However, given the overall popularity of city hotels, continue to invest in expanding offerings at city hotel locations.
 
-Capitalize on the high ADR in the summer months for resort hotels by promoting summer vacation packages and experiences to attract more guests.
+6. Capitalize on the high ADR in the summer months for resort hotels by promoting summer vacation packages and experiences to attract more guests.
 
-Since GDS contributes significantly to ADR in city hotels but not resort hotels, focus on promoting and expanding the use of GDS for city hotel bookings.
+7. Since GDS contributes significantly to ADR in city hotels but not resort hotels, focus on promoting and expanding the use of GDS for city hotel bookings.
 
-To incentivize longer stays and improve the ADR, consider offering promotions and discounts for longer stays.
+8. To incentivize longer stays and improve the ADR, consider offering promotions and discounts for longer stays.
 
-As Portugal is the primary source of guests, invest in promoting and expanding offerings to attract more guests from Portugal and other countries.
+9. As Portugal is the primary source of guests, invest in promoting and expanding offerings to attract more guests from Portugal and other countries.
 
-Focus on maximizing ADR by encouraging shorter stays at city hotels and longer stays at resort hotels to capitalize on guest preferences.
+10. Focus on maximizing ADR by encouraging shorter stays at city hotels and longer stays at resort hotels to capitalize on guest preferences.
 
-Invest in attracting more guests looking for longer stays at resort hotels, while continuing to offer attractive options and packages for short stays at city hotels.
+11. Invest in attracting more guests looking for longer stays at resort hotels, while continuing to offer attractive options and packages for short stays at city hotels.
