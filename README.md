@@ -1,5 +1,5 @@
 # EDA-Hotel_Booking
-![hotel booking](https://github.com/shubham19nijwala/EDA-Hotel_Booking/assets/130289158/a85955fe-e67a-4b9c-8f50-edff3ff41311)
+![hotel booking](https://github.com/shubham19nijwala/EDA-Hotel_Booking/assets/130289158/6b401db1-05d1-420a-83a1-3941e8cd5d97)
 
 
 # Summary
