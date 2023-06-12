@@ -1,4 +1,7 @@
 # EDA-Hotel_Booking
+![hotel booking](https://github.com/shubham19nijwala/EDA-Hotel_Booking/assets/130289158/a85955fe-e67a-4b9c-8f50-edff3ff41311)
+
+
 # Summary
 This project involves analyzing hotel booking data for City and Resort hotels using a structured workflow consisting of three categories: Data Collection and Understanding, Data Cleaning and Manipulation, and Exploratory Data Analysis (EDA). The dataset contains 119,390 rows and 32 columns, and important columns are identified and updated. Duplicate data items are removed, and missing values are handled using data wrangling methods. The EDA phase involves using charts and graphs to identify patterns and trends, such as peak season for bookings, average lead time, and cancellation rates. The insights gained from this analysis can help hotel management make informed decisions about pricing, marketing, and staffing. Overall, this project highlights the importance of utilizing data science techniques to obtain insights that can inform business decisions.
 # Business Objective
